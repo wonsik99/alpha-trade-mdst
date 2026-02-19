@@ -1,6 +1,11 @@
 numpy
-pandas
+pandas==3.0.0
 yfinance
 matplotlib
 torch
 gymnasium
+python-dotenv
+urllib3==1.26.20
+websocket-client==1.9.0
+alpaca-trade-api==3.2.0
+alpaca-py==0.43.2
